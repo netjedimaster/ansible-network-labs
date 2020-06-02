@@ -12,7 +12,7 @@ R202 ansible_host=10.1.202.10
 
 [cisco:vars]
 ansible_network_os=ios
-ansible_connectoin=network_cli
+ansible_connection=network_cli
 
 [juniper]
 
